@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Learn Vue",
+      "day": "March 1st at 10:00pm",
+      "reminder": false
+    },
+    {
+      "id": "2",
+      "text": "Learn Vuex",
+      "day": "March 2nd at 2:00pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Learn Vue Router",
+      "day": "March 3rd at 5:00pm",
+      "reminder": false
+    }
+  ]
+}
